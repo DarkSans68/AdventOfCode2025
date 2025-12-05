@@ -1,0 +1,3 @@
+/home/anotherone/Desktop/Stuff with C/AdventOfCode2025/Day1/build/CMakeFiles/day1.dir
+/home/anotherone/Desktop/Stuff with C/AdventOfCode2025/Day1/build/CMakeFiles/edit_cache.dir
+/home/anotherone/Desktop/Stuff with C/AdventOfCode2025/Day1/build/CMakeFiles/rebuild_cache.dir
